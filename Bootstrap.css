@@ -5,3 +5,14 @@
 .container img{
     height: 250px;
 }
+.section1{
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 30px;
+    width: 60%;
+    margin: 10rem auto 0 auto ;
+    margin-top: 10px;
+    text-align: center;
+  }
