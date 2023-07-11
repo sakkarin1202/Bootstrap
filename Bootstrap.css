@@ -1,0 +1,7 @@
+.container-fluid img{
+    border-radius: 50%;
+}
+
+.container img{
+    height: 250px;
+}
